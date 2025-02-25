@@ -1,0 +1,201 @@
+[
+  {
+    "disease": "Malaria",
+    "symptoms": [
+      "Fever",
+      "Chills",
+      "Sweating",
+      "Headache",
+      "Muscle aches",
+      "Nausea",
+      "Vomiting",
+      "Diarrhea"
+    ],
+    "description": "Malaria is a life-threatening disease caused by parasites transmitted through infected female Anopheles mosquito bites.",
+    "severity": "Severe",
+    "risk_factors": [
+      "Living in or traveling to tropical regions",
+      "Lack of mosquito protection",
+      "Weak immune system"
+    ],
+    "treatment": {
+      "medications": "Artemisinin-based combination therapies (ACTs)",
+      "supportive_care": "Hydration, rest, antipyretics for fever",
+      "lifestyle_changes": "Use of insect repellent, mosquito nets",
+      "prevention": "Mosquito nets, insect repellent, antimalarial drugs"
+    }
+  },
+  {
+    "disease": "Tuberculosis (TB)",
+    "symptoms": [
+      "Persistent cough (3+ weeks)",
+      "Chest pain",
+      "Coughing up blood",
+      "Fatigue",
+      "Weakness",
+      "Weight loss",
+      "Night sweats",
+      "Fever"
+    ],
+    "description": "Tuberculosis (TB) is a contagious infection caused by bacteria, primarily affecting the lungs.",
+    "severity": "Moderate",
+    "risk_factors": [
+      "Close contact with TB-infected individuals",
+      "Weakened immune system",
+      "Malnutrition"
+    ],
+    "treatment": {
+      "medications": "Combination of antibiotics (isoniazid, rifampin, ethambutol, pyrazinamide) for 6-9 months",
+      "supportive_care": "Balanced diet, medication adherence",
+      "lifestyle_changes": "Good nutrition, avoid close contact with TB patients",
+      "prevention": "BCG vaccination, screening, treating latent TB"
+    }
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": [
+      "Runny nose",
+      "Sneezing",
+      "Sore throat",
+      "Cough",
+      "Congestion",
+      "Mild headache",
+      "Body aches"
+    ],
+    "description": "The common cold is a viral infection of the nose and throat (upper respiratory tract).",
+    "severity": "Mild",
+    "risk_factors": [
+      "Exposure to cold viruses",
+      "Weakened immune system",
+      "Close contact with infected individuals"
+    ],
+    "treatment": {
+      "medications": "Over-the-counter pain relievers, decongestants, cough suppressants",
+      "supportive_care": "Rest, hydration, gargling with salt water",
+      "lifestyle_changes": "Stay hydrated, avoid smoking",
+      "prevention": "Frequent handwashing, avoiding close contact with sick individuals"
+    }
+  },
+  {
+    "disease": "Whooping Cough (Pertussis)",
+    "symptoms": [
+      "Runny nose",
+      "Low-grade fever",
+      "Mild cough (initially)",
+      "Severe coughing fits followed by a 'whooping' sound",
+      "Vomiting after coughing fits",
+      "Fatigue"
+    ],
+    "description": "Whooping cough (pertussis) is a highly contagious respiratory tract infection caused by bacteria.",
+    "severity": "Moderate",
+    "risk_factors": [
+      "Lack of vaccination",
+      "Close contact with infected individuals",
+      "Infants under 12 months"
+    ],
+    "treatment": {
+      "medications": "Antibiotics (e.g., azithromycin, clarithromycin)",
+      "supportive_care": "Rest, hydration, monitoring for breathing difficulties",
+      "lifestyle_changes": "Avoid exposure to infected individuals, especially unvaccinated children",
+      "prevention": "Vaccination (DTaP, Tdap)"
+    }
+  },
+  {
+    "disease": "Cholera",
+    "symptoms": [
+      "Watery diarrhea (large volumes)",
+      "Vomiting",
+      "Rapid dehydration",
+      "Muscle cramps",
+      "Lethargy",
+      "Restlessness",
+      "Irritability"
+    ],
+    "description": "Cholera is an acute diarrheal infection caused by ingestion of food or water contaminated with the bacterium Vibrio cholerae.",
+    "severity": "Severe",
+    "risk_factors": [
+      "Poor sanitation",
+      "Lack of clean drinking water",
+      "Crowded living conditions"
+    ],
+    "treatment": {
+      "medications": "Oral rehydration salts (ORS), antibiotics (in severe cases)",
+      "supportive_care": "Rapid rehydration, zinc supplementation",
+      "lifestyle_changes": "Drink only clean water, proper sanitation practices",
+      "prevention": "Safe water and sanitation, cholera vaccination"
+    }
+  },
+  {
+    "disease": "Influenza (Flu)",
+    "symptoms": [
+      "Fever",
+      "Chills",
+      "Sore throat",
+      "Cough",
+      "Runny or stuffy nose",
+      "Body aches",
+      "Fatigue"
+    ],
+    "description": "Influenza is a viral infection that attacks the respiratory system — nose, throat, and lungs.",
+    "severity": "Moderate",
+    "risk_factors": [
+      "Weakened immune system",
+      "Close contact with infected individuals",
+      "Seasonal outbreaks"
+    ],
+    "treatment": {
+      "medications": "Antiviral drugs (oseltamivir, zanamivir)",
+      "supportive_care": "Rest, hydration, antipyretics for fever",
+      "lifestyle_changes": "Boost immune system through proper diet and exercise",
+      "prevention": "Annual flu vaccination, hand hygiene"
+    }
+  },
+  {
+    "disease": "HIV/AIDS",
+    "symptoms": [
+      "Fever",
+      "Night sweats",
+      "Weight loss",
+      "Swollen lymph nodes",
+      "Persistent fatigue",
+      "Recurrent infections"
+    ],
+    "description": "HIV (Human Immunodeficiency Virus) weakens the immune system, making it difficult to fight off infections, leading to AIDS (Acquired Immunodeficiency Syndrome).",
+    "severity": "Severe",
+    "risk_factors": [
+      "Unprotected sexual activity",
+      "Sharing needles",
+      "Mother-to-child transmission"
+    ],
+    "treatment": {
+      "medications": "Antiretroviral therapy (ART)",
+      "supportive_care": "Regular monitoring, maintaining healthy lifestyle",
+      "lifestyle_changes": "Safe sexual practices, regular testing",
+      "prevention": "Use of condoms, Pre-exposure prophylaxis (PrEP), safe needle practices"
+    }
+  },
+  {
+    "disease": "Hepatitis B",
+    "symptoms": [
+      "Fatigue",
+      "Nausea",
+      "Vomiting",
+      "Abdominal pain",
+      "Jaundice (yellowing of the skin and eyes)",
+      "Dark urine"
+    ],
+    "description": "Hepatitis B is a viral infection that affects the liver, potentially leading to chronic liver disease or liver cancer.",
+    "severity": "Severe",
+    "risk_factors": [
+      "Unprotected sex",
+      "Sharing needles",
+      "Mother-to-child transmission"
+    ],
+    "treatment": {
+      "medications": "Antiviral medications (e.g., tenofovir, entecavir)",
+      "supportive_care": "Regular liver function monitoring, maintaining healthy diet",
+      "lifestyle_changes": "Avoid alcohol, healthy diet, safe sexual practices",
+      "prevention": "Hepatitis B vaccine, safe needle use"
+    }
+  }
+]

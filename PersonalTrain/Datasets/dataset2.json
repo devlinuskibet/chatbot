@@ -1,0 +1,122 @@
+[
+  {
+    "disease": "Malaria",
+    "symptoms": [
+      "Fever", "Chills", "Sweating", "Headache", "Muscle aches", "Nausea", "Vomiting", "Fatigue", "Diarrhea"
+    ],
+    "description": "Malaria is a life-threatening disease caused by parasites transmitted through infected mosquito bites.",
+    "treatment": {
+      "medications": "Artemisinin-based combination therapies (ACTs)",
+      "supportive_care": "Hydration, rest, antipyretics for fever",
+      "prevention": "Mosquito nets, insect repellent, antimalarial drugs"
+    }
+  },
+  {
+    "disease": "Tuberculosis (TB)",
+    "symptoms": [
+      "Persistent cough (3+ weeks)", "Chest pain", "Coughing up blood", "Fatigue", "Weakness", "Weight loss", "Night sweats", "Fever"
+    ],
+    "description": "Tuberculosis (TB) is a contagious bacterial infection that primarily affects the lungs.",
+    "treatment": {
+      "medications": "Combination of antibiotics (isoniazid, rifampin, ethambutol, pyrazinamide)",
+      "supportive_care": "Balanced diet, medication adherence",
+      "prevention": "BCG vaccination, screening, treating latent TB"
+    }
+  },
+  {
+    "disease": "Common Cold",
+    "symptoms": [
+      "Runny nose", "Sneezing", "Sore throat", "Cough", "Congestion", "Mild headache", "Body aches", "Low fever"
+    ],
+    "description": "The common cold is a viral infection of the upper respiratory tract, mostly caused by rhinoviruses.",
+    "treatment": {
+      "medications": "Over-the-counter pain relievers, decongestants, cough suppressants",
+      "supportive_care": "Rest, hydration, gargling with salt water",
+      "prevention": "Frequent handwashing, avoiding close contact with sick individuals"
+    }
+  },
+  {
+    "disease": "Whooping Cough (Pertussis)",
+    "symptoms": [
+      "Runny nose", "Low-grade fever", "Mild cough", "Severe coughing fits with a 'whooping' sound", "Vomiting after coughing", "Fatigue"
+    ],
+    "description": "Whooping cough is a highly contagious respiratory infection caused by Bordetella pertussis.",
+    "treatment": {
+      "medications": "Antibiotics such as azithromycin or clarithromycin",
+      "supportive_care": "Rest, hydration, monitoring breathing",
+      "prevention": "Vaccination (DTaP, Tdap)"
+    }
+  },
+  {
+    "disease": "Cholera",
+    "symptoms": [
+      "Watery diarrhea", "Vomiting", "Rapid dehydration", "Muscle cramps", "Lethargy", "Restlessness", "Dry mouth", "Low blood pressure"
+    ],
+    "description": "Cholera is an acute diarrheal infection caused by consuming food or water contaminated with Vibrio cholerae bacteria.",
+    "treatment": {
+      "medications": "Oral rehydration salts (ORS), antibiotics (in severe cases)",
+      "supportive_care": "Rapid rehydration, zinc supplementation",
+      "prevention": "Safe water and sanitation, cholera vaccination"
+    }
+  },
+  {
+    "disease": "Influenza (Flu)",
+    "symptoms": [
+      "Fever", "Chills", "Body aches", "Sore throat", "Runny nose", "Fatigue", "Dry cough", "Headache"
+    ],
+    "description": "Influenza (Flu) is a viral infection that affects the respiratory system, causing a range of symptoms.",
+    "treatment": {
+      "medications": "Antiviral drugs (oseltamivir, zanamivir)",
+      "supportive_care": "Rest, fluids, over-the-counter medications",
+      "prevention": "Annual flu vaccination, good hygiene"
+    }
+  },
+  {
+    "disease": "HIV/AIDS",
+    "symptoms": [
+      "Fatigue", "Weight loss", "Frequent infections", "Night sweats", "Swollen lymph nodes", "Fever", "Diarrhea"
+    ],
+    "description": "HIV is a virus that weakens the immune system, leading to AIDS if untreated.",
+    "treatment": {
+      "medications": "Antiretroviral therapy (ART)",
+      "supportive_care": "Healthy diet, regular check-ups",
+      "prevention": "Safe sex practices, HIV testing, ART for prevention"
+    }
+  },
+  {
+    "disease": "Dengue Fever",
+    "symptoms": [
+      "High fever", "Severe headache", "Pain behind the eyes", "Joint and muscle pain", "Skin rash", "Mild bleeding", "Fatigue", "Nausea"
+    ],
+    "description": "Dengue is a mosquito-borne viral disease causing flu-like symptoms and severe joint pain.",
+    "treatment": {
+      "medications": "Pain relievers (acetaminophen), no aspirin or NSAIDs",
+      "supportive_care": "Fluids, rest",
+      "prevention": "Avoid mosquito bites, dengue vaccination in high-risk areas"
+    }
+  },
+  {
+    "disease": "Typhoid Fever",
+    "symptoms": [
+      "Prolonged high fever", "Headache", "Stomach pain", "Loss of appetite", "Weakness", "Diarrhea or constipation"
+    ],
+    "description": "Typhoid fever is caused by Salmonella typhi bacteria, typically through contaminated food or water.",
+    "treatment": {
+      "medications": "Antibiotics (ciprofloxacin, azithromycin)",
+      "supportive_care": "Hydration, rest",
+      "prevention": "Vaccination, proper sanitation"
+    }
+  },
+  {
+    "disease": "Measles",
+    "symptoms": [
+      "High fever", "Cough", "Runny nose", "Red, watery eyes", "Rash", "Small white spots in the mouth"
+    ],
+    "description": "Measles is a highly contagious viral infection that primarily affects children.",
+    "treatment": {
+      "medications": "No specific antiviral treatment",
+      "supportive_care": "Fluids, rest, vitamin A supplements",
+      "prevention": "MMR vaccine (measles, mumps, rubella)"
+    }
+  }
+]

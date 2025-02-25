@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        form {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Welcome to the Medical Chatbot</h1>
+<p>Enter your symptoms separated by commas (e.g., 'Fever, Headache, Sweating'):</p>
+
+<form method="POST">
+    <label for="symptoms">Symptoms:</label>
+    <input type="text" id="symptoms" name="symptoms" required>
+    <button type="submit">Submit</button>
+</form>
+
+{% if knn_prediction and nb_prediction %}
+    <h2>Predictions</h2>
+    <p><strong>KNN Prediction:</strong> {{ knn_prediction }}</p>
+    <p><strong>Naive Bayes Prediction:</strong> {{ nb_prediction }}</p>
+{% endif %}
+
+</body>
+</html>
